@@ -305,6 +305,11 @@ main .five_cat_three {
 	background: url('./../images/pantalon_04.jpg') no-repeat center;
 }
 
+main .card:hover {
+	cursor: pointer;
+	transform: scale(1.003);
+}
+
 main .card .head {
 	display: flex;
 	flex-direction: column;
