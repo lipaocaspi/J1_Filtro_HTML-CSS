@@ -246,63 +246,63 @@ main .info-data .card {
 }
 
 main .one_cat_one {
-	background: url('/images/abrigo.jpg') no-repeat center;
+	background: url('./../images/abrigo.jpg') no-repeat center;
 }
 
 main .two_cat_one {
-	background: url('/images/abrigo_01.jpg') no-repeat center;
+	background: url('./../images/abrigo_01.jpg') no-repeat center;
 }
 
 main .three_cat_one {
-	background: url('/images/abrigo_02.jpg') no-repeat center;
+	background: url('./../images/abrigo_02.jpg') no-repeat center;
 }
 
 main .four_cat_one {
-	background: url('/images/abrigo_03.jpg') no-repeat center;
+	background: url('./../images/abrigo_03.jpg') no-repeat center;
 }
 
 main .five_cat_one {
-	background: url('/images/abrigo_04.jpg') no-repeat center;
+	background: url('./../images/abrigo_04.jpg') no-repeat center;
 }
 
 main .one_cat_two {
-	background: url('/images/camiseta.png') no-repeat center;
+	background: url('./../images/camiseta.png') no-repeat center;
 }
 
 main .two_cat_two {
-	background: url('/images/camiseta1.png') no-repeat center;
+	background: url('./../images/camiseta1.png') no-repeat center;
 }
 
 main .three_cat_two {
-	background: url('/images/camiseta2.png') no-repeat center;
+	background: url('./../images/camiseta2.png') no-repeat center;
 }
 
 main .four_cat_two {
-	background: url('/images/camiseta3.png') no-repeat center;
+	background: url('./../images/camiseta3.png') no-repeat center;
 }
 
 main .five_cat_two {
-	background: url('/images/camiseta4.png') no-repeat center;
+	background: url('./../images/camiseta4.png') no-repeat center;
 }
 
 main .one_cat_three {
-	background: url('/images/pantalon.jpg') no-repeat center;
+	background: url('./../images/pantalon.jpg') no-repeat center;
 }
 
 main .two_cat_three {
-	background: url('/images/pantalon_01.jpg') no-repeat center;
+	background: url('./../images/pantalon_01.jpg') no-repeat center;
 }
 
 main .three_cat_three {
-	background: url('/images/pantalon_02.jpg') no-repeat center;
+	background: url('./../images/pantalon_02.jpg') no-repeat center;
 }
 
 main .four_cat_three {
-	background: url('/images/pantalon_03.jpg') no-repeat center;
+	background: url('./../images/pantalon_03.jpg') no-repeat center;
 }
 
 main .five_cat_three {
-	background: url('/images/pantalon_04.jpg') no-repeat center;
+	background: url('./../images/pantalon_04.jpg') no-repeat center;
 }
 
 main .card .head {
