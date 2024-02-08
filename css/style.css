@@ -355,8 +355,6 @@ main .info-data .card {
 	flex-direction: column;
 	justify-content: end;
 	border-radius: 10px;
-	border: 1px dotted var(--light-blue);
-	
 	height: 350px;
 	box-shadow: 4px 4px 16px rgba(0, 0, 0, .05);
 }
@@ -669,6 +667,44 @@ main .btn-send:hover {
 }
 /* MAIN */
 /* CONTENT */
+
+main .item {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 100%;
+	padding: 15px;
+	margin: 10px 0px 10px 0px;
+	border-radius: 15px;
+	background-color: var(--light-blue);
+	border: 1px solid var(--dark-blue);
+}
+
+main .item__image {
+	width: 150px;
+}
+
+main .item__text {
+	font-size: larger;
+	text-align: left;
+}
+
+main .item__delete:target > main #item01 {
+	display: none;
+}
+
+main .button {
+	display: flex;
+	justify-content: space-between;
+	background-color: #0C5FCD;
+	padding: 5px;
+	border-radius: 5px;
+	color: white;
+}
+
+main .button:hover ~ main .item {
+	display: none;
+}
 
 @media screen and (max-width: 600px) {
 	#content {
