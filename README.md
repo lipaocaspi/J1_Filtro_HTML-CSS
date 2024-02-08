@@ -196,6 +196,15 @@ main .one_cat_one {
 }
 ```
 
+Se define un pequeño efecto al hacer hover en cada tarjeta.
+
+```
+main .card:hover {
+	cursor: pointer;
+	transform: scale(1.003);
+}
+```
+
 Se define la cabecera de la tarjeta como un flex con dirección de columna.
 
 ```
